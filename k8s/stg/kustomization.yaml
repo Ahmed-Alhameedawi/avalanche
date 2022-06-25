@@ -1,0 +1,7 @@
+resources:
+  - "../base"
+namePrefix: stg-
+namespace: stg
+commonLabels:
+  name: avalanche-stg
+  app: avalanche-stg
